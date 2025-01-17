@@ -1,6 +1,3 @@
-Here’s a README file for your "House-Price-Prediction-Using-Scikit" project with emojis added for a more engaging touch:
-
-```markdown
 # House Price Prediction Using Scikit 🏡💰
 
 This project uses machine learning techniques to predict house prices based on various features such as location, square footage, number of bedrooms, and more. It employs Scikit-learn for model training, testing, and evaluation. 
